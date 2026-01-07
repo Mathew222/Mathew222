@@ -74,14 +74,11 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathew222&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <!-- Top Languages Card -->
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathew222&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathew222&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathew222&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats Card (Using the official demolab domain) -->
   <img width="100%" src="https://streak-stats.demolab.com/?user=Mathew222&theme=tokyonight&hide_border=true" />
 </p>
 
