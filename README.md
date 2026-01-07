@@ -58,8 +58,8 @@
 
 ### 🤝 Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mathew@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mathew-p-binu/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mathewbinu004.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://portfolio-2jfa.onrender.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
