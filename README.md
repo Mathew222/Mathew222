@@ -1,7 +1,7 @@
 # Hi, I'm Mathew P Binu 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Upcoming+AI+Developer;Fullstack+TypeScript+Engineer;Building+Lumina+%26+Medinsight;Adi+Shankara+IET+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Upcoming+AI+Developer;Fullstack+TypeScript+Engineer;Building+Lumina+%26+Medinsight;Adi+Shankara+Student" alt="Typing SVG" />
 </p>
 
 ---
